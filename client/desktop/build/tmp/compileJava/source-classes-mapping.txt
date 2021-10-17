@@ -1,0 +1,2 @@
+com/argentumonline/client/desktop/DesktopLauncher.java
+ com.argentumonline.client.desktop.DesktopLauncher
